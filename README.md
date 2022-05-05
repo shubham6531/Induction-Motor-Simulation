@@ -4,6 +4,6 @@ The project performs the simulation of a 3-phase 4 pole induction motor under fr
 2. Electromagnetic Torque as a function of rotor speed
 3. Instantaneous Power for the rotor, stator, and the shaft
 
-An in-depth description of the performed experiments can be found in Problem_Statement.pdf
+An in-depth description of the performed experiments can be found in Problem_Statement.pdf. Furthermore, the results have been compiled in an IEEE style paper in Report.pdf
 
 Run Master_Script.mlx to run the Simulink model and view experiment results.
